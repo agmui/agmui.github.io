@@ -15,10 +15,8 @@ I tried assembling all the parts together to see whether or not it would fit and
 
 The final product is able to drive forward and I am trying to implement a feature where the Arduino can check the amount of voltage the batteries had and display it with an OLED screen. Currently, below is what my project looks like.
 
-![Image of reciver]
-(https://raw.githubusercontent.com/agmui/agmui.github.io/main/IMG_8252%5B1%5D.JPG "Reciver")
+![Image of reciver](https://raw.githubusercontent.com/agmui/agmui.github.io/main/IMG_8252%5B1%5D.JPG "Reciver")
 
-![Image of transiver]
-(https://raw.githubusercontent.com/agmui/agmui.github.io/main/IMG_8253%5B1%5D.JPG "Transiver")
+![Image of transiver](https://raw.githubusercontent.com/agmui/agmui.github.io/main/IMG_8253%5B1%5D.JPG "Transiver")
 
 The code is on my [Github](https://github.com/agmui/Arduino_Projects.git). Some guides I found realy useful for using the nrf24L01 was from [howtomechatronics](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/).
